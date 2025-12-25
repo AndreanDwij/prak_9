@@ -9,9 +9,9 @@ export default async function BlogDetail({ params }) {
     return (
       <div className="flex items-center justify-center min-h-screen">
         <div className="text-center">
-          <h2 className="text-2xl font-bold text-gray-800 mb-2">Artikel tidak ditemukan</h2>
+          <h2 className="text-2xl font-bold text-gray-800 mb-2">Artikel tidak ditemukan yahaha</h2>
           <Link href="/blog" className="text-blue-600 hover:text-blue-800">
-            Kembali ke Daftar
+            Kembali ke Daftar 
           </Link>
         </div>
       </div>
